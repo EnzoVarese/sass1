@@ -1,0 +1,15 @@
+//header
+header {
+    & .imgLogo {
+        height: $height;
+        width: $width;
+    }
+}
+    .tituloIndex {
+        background: radial-gradient(green, yellow, $color1);
+    }
+header {
+    background: rgb(4, 119, 4);
+    min-height: $height;
+    border-bottom: black solid 2px;
+}

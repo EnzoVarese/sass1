@@ -1,0 +1,14 @@
+.corusel-inner {
+    max-height: 15rem;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+/*<!--   Media queries pantalla sm    --> */
+@media (max-width:768px) {
+    #intro {
+        width: 100% !important;
+    }
+}
